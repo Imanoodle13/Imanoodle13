@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Imanoodle13
 - 👀 I’m interested in Video Game Design
-- 🌱 I’m currently learning Python and GitHub
+- 🌱 I’m currently learning Unreal Engine
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
