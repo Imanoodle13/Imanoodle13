@@ -30,9 +30,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Imanoodle13&limit=5&theme=blue-green&combine_all_yearly_contributions=true)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Imanoodle13&icon=2&color=6)](https://visitcount.itsvg.in)
 
